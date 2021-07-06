@@ -5,6 +5,6 @@ def main():
 
     final = first * second
 
-    print(str(first) + ' + ' + str(second) + ' = ' + str(final))
+    print(str(first) + ' * ' + str(second) + ' = ' + str(final))
 if __name__ == '__main__':
     main()
